@@ -1,5 +1,5 @@
 export const totalNApps = 37;
-export async function1 stageApps(context) {
+export async function stageApps(context) {
     let finished = false;
     let apiLimit = context.apiLimits.apps;
 
